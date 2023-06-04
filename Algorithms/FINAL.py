@@ -69,8 +69,8 @@ def update_data5():
         
     if (i == 125):
         # Read data from the Arduino
-        transit1 = arduino1.readline().decode().rstrip()  # Assuming the data is sent as text
-        transit2 = arduino1.readline().decode().rstrip()
+        transit1 = arduino1.readline().decode().strip()  # Assuming the data is sent as text
+        transit2 = arduino1.readline().decode().strip()
         # Update the GUI with the new data
         if (transit1[0] == 'S'):
             label4.config(text=transit1[5:])
@@ -127,6 +127,19 @@ tool_bar1.grid(row=1, column=0, padx=5, pady=(0,5))
 label1 = tk.Label(tool_bar1, font=("Arial", 16), width=19)
 label1.grid(padx=7, pady=7)
 
+# Create tool bar frame 2
+tool_bar2 = tk.Frame(right2_frame, width=400, height=145, bg='blue')
+tool_bar2.grid(row=1, column=0, padx=5, pady=(0,5))
+
+label21 = tk.Label(tool_bar2, text="MAP: 84", font=("Arial", 16), width=19)
+label21.grid(padx=7, pady=7)
+
+label21 = tk.Label(tool_bar2, text="Sistole: 127", font=("Arial", 16), width=19)
+label21.grid(padx=7, pady=7)
+
+label21 = tk.Label(tool_bar2, text="Diastole: 98", font=("Arial", 16), width=19)
+label21.grid(padx=7, pady=7)
+
 # Create tool bar frame 3
 tool_bar3 = tk.Frame(right3_frame, width=400, height=145, bg='blue')
 tool_bar3.grid(row=1, column=0, padx=5, pady=(0,5))
@@ -145,9 +158,9 @@ label4.grid(padx=7, pady=7)
 fig = Figure()
 ax = fig.add_subplot(111)
 
-ax.set_title('Serial Data')
+ax.set_title('Lead I')
 ax.set_xlabel('Sample')
-ax.set_ylabel('Voltage')
+ax.set_ylabel('x10\u207B\u2074 mV')
 ax.set_xlim(0, 300)
 ax.set_ylim(-10000, 15000)
 lines = ax.plot([],[])[0]

@@ -19,6 +19,9 @@ WHAT IS INCLUDED IN THIS REPOSITORY?
         o Body Temperature using a DS18B20 from Dallas Semiconductor  
         o Respiratory Rate  
           
-    2] Full-Stack JavaScript code for the Web Application using Vite and React  
+    2] Front-End Code for the Web Application 
+        o Written in TypeScript using Vite and React
       
-    3] Queries and related source codes for the Cloud Server using InfluxDB Cloud
+    3] Back-End Code for the Web Application
+        o Written in JavaScript using Vite and React
+        o Connects Web Application to InfluxDB Cloud Server

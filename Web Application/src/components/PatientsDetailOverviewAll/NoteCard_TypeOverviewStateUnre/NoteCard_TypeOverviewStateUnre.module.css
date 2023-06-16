@@ -1,0 +1,74 @@
+.box.box {
+  left: 5.4422%;
+  right: 89.4558%;
+  top: 30.7692%;
+  bottom: 30.7692%;
+}
+.star.star {
+  left: 13.6054%;
+  right: 80.2721%;
+  top: 28.2051%;
+  bottom: 25.641%;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: 22px;
+  top: 20px;
+  width: 294px;
+  height: 39px;
+  align-items: flex-start;
+}
+.rectangle18 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  background-color: #fffcf9;
+}
+.subject {
+  color: #121212;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 23.1293%;
+  right: 21.4286%;
+  top: 15.3846%;
+  bottom: 46.1538%;
+  height: min-content;
+  flex-direction: column;
+}
+.createdBy {
+  color: #121212;
+  font-size: 8px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 23.1293%;
+  right: 21.4286%;
+  top: 53.8462%;
+  bottom: 15.3846%;
+  height: min-content;
+  flex-direction: column;
+}
+.apr9 {
+  color: #121212;
+  font-size: 10px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 84.0136%;
+  right: 4.4218%;
+  top: 30.7692%;
+  bottom: 30.7692%;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  flex-direction: column;
+}

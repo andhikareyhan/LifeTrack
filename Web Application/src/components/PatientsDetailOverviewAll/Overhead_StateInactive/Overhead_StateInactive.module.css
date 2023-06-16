@@ -1,0 +1,42 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 125px;
+  height: 24px;
+  align-items: flex-start;
+}
+.rectangle16 {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 125px;
+  outline: solid 1px #b1ede8;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fffcf9;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+.rectangle16:hover {
+  background-color: #E5FFF1;
+}
+.enterTextHere {
+  color: #121212;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

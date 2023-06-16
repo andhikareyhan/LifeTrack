@@ -1,0 +1,38 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 21px;
+  width: 50px;
+  height: 50px;
+  align-items: flex-start;
+}
+.button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+.iconWrapper {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.ellipse3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50px;
+  height: 50px;
+  background-color: #00a792;
+  border-radius: 50%;
+}
+.icon {
+  position: absolute;
+  top: 26%;
+  left: 26%;
+  width: 24px;
+  height: 24px;
+}
+.ellipse3:hover {
+  background-color:#006F5F;
+}

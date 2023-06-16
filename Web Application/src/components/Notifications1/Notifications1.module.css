@@ -1,0 +1,795 @@
+.profile.profile {
+  left: 11px;
+  top: 958px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.logo.logo {
+  left: 12px;
+  top: 13px;
+}
+.pageNav.pageNav {
+  left: 1287px;
+  top: 969px;
+}
+.sidebarPages.sidebarPages {
+  left: 11px;
+  top: 451px;
+}
+.sidebarPages2.sidebarPages2 {
+  left: 11px;
+  top: 368px;
+}
+.sidebarPages3.sidebarPages3 {
+  left: 11px;
+  top: 285px;
+}
+.sidebarPages4.sidebarPages4 {
+  left: 11px;
+  top: 202px;
+}
+.sidebarPages5.sidebarPages5 {
+  left: 11px;
+  top: 119px;
+}
+.filter.filter {
+  left: 644px;
+  top: 127px;
+}
+.label {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.1111%;
+  right: 52.2222%;
+  top: 10%;
+  bottom: 10%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.notification.notification {
+  left: 251px;
+  top: 193px;
+}
+.rectangle61.rectangle61 {
+  background-color: initial;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle61.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.insertTextHere {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label2 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.notification2.notification2 {
+  left: 251px;
+  top: 429px;
+}
+.rectangle612.rectangle612 {
+  background-color: initial;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle612.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.insertTextHere2 {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label7 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label8 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label9 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time2 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category2 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.notification3.notification3 {
+  left: 251px;
+  top: 311px;
+}
+.rectangle613.rectangle613 {
+  background-color: #daf1fe;
+}
+.insertTextHere3 {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label10 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label11 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time3 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category3 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.notification4.notification4 {
+  left: 251px;
+  top: 547px;
+}
+.rectangle614.rectangle614 {
+  background-color: initial;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle613.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.insertTextHere4 {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper4 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label12 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label13 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label14 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label15 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time4 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category4 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.notification5.notification5 {
+  left: 251px;
+  top: 252px;
+}
+.rectangle615.rectangle615 {
+  background-color: #ed686c;
+}
+.insertTextHere5 {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper5 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label16 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label17 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time5 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category5 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.notification6.notification6 {
+  left: 251px;
+  top: 488px;
+}
+.rectangle616.rectangle616 {
+  background-color: initial;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle614.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.insertTextHere6 {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper6 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label18 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label19 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label20 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label21 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time6 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category6 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.notification7.notification7 {
+  left: 251px;
+  top: 370px;
+}
+.rectangle617.rectangle617 {
+  background-color: initial;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle615.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.insertTextHere7 {
+  position: absolute;
+  left: 104px;
+  top: 9px;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper7 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label22 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label23 {
+  color: #000;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label24 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.time7 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 34px;
+  width: 47px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.category7 {
+  color: #868787;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 34px;
+  width: 297px;
+  height: min-content;
+  flex-direction: column;
+}
+.forgotPassword2 {
+  left: 1260px;
+  top: 130px;
+}
+.forgotPassword {
+  color: #121212;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 0;
+  right: 21.875%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  cursor: pointer;
+}
+.forgotPassword:hover {
+  color: #00a792;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #fffcf9;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  left: 14.375%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fffcf9;
+}
+.profile2 {
+  position: absolute;
+  left: 0;
+  right: 85.625%;
+  top: 91.8945%;
+  bottom: 0;
+  background-color: #00a792;
+}
+.menu {
+  position: absolute;
+  left: 0;
+  right: 85.625%;
+  top: 0;
+  bottom: 8.1055%;
+  background-color: #b1ede8;
+}
+.showing7Of7Entries {
+  position: absolute;
+  left: 17.9861%;
+  right: 70.0694%;
+  top: 94.6289%;
+  bottom: 3.0273%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper8 {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label25 {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label26 {
+  color: #868787;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label27 {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label28 {
+  color: #868787;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label29 {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.notifications {
+  display: flex;
+  align-items: center;
+  color: #00a792;
+  font-size: 14px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 84px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: row;
+  cursor: pointer;
+}
+.phBellBold {
+  position: absolute;
+  left: 17.4306%;
+  right: 80.9028%;
+  top: 8.0078%;
+  bottom: 89.6484%;
+}
+.icon2 {
+  width: 24px;
+  height: 24px;
+}
+.notifications .icon2 {
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.today {
+  color: #868787;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 83.4722%;
+  right: 4.3056%;
+  top: 4.1016%;
+  bottom: 93.5547%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.notifications2 {
+  color: #121212;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.2917%;
+  right: 71.25%;
+  top: 3.3203%;
+  bottom: 92.9688%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.box {
+  position: absolute;
+  left: 251px;
+  top: 127px;
+  width: 371px;
+  height: 30px;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  background-color: #d9d9d900;
+}
+.materialSymbolsSearchRounded {
+  position: absolute;
+  left: 255px;
+  top: 130px;
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.searchNote {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.5556%;
+  right: 72.6389%;
+  top: 12.6953%;
+  bottom: 84.9609%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mdiAlarmLightOutline {
+  position: absolute;
+  left: 291px;
+  top: 270px;
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.mdiAlarmLightOutline2 {
+  position: absolute;
+  left: 291px;
+  top: 329px;
+  width: 24px;
+  height: 24px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}

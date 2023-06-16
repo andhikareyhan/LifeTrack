@@ -1,0 +1,38 @@
+.root {
+  position: absolute;
+  left: 400px;
+  top: 276px;
+  width: 164px;
+  height: 50px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.profile {
+  background-color: #e5fff1;
+  border-radius: 10px;
+  color: #121212;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  white-space: nowrap;
+  flex-direction: row;
+  cursor: pointer;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+}
+.profile .icon {
+  margin-left: 18px;
+  margin-right: 14px;
+}

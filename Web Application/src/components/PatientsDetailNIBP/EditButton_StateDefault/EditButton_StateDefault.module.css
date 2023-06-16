@@ -1,0 +1,48 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 108px;
+  height: 24px;
+  align-items: flex-start;
+}
+.editDetails {
+  background-color: #fffcf9;
+  border-radius: 5px;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  display: flex;
+  align-items: center;
+  color: #868787;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  white-space: nowrap;
+  flex-direction: row;
+  cursor: pointer;
+}
+.icon {
+  width: 18px;
+  height: 18px;
+}
+.editDetails .icon {
+  margin-left: 8px;
+  margin-right: 11px;
+}
+.editDetails:hover {
+  color: #121212;
+  outline: solid 1px #121212;
+  outline-offset: -1px;
+
+}
+.editDetails:hover .icon path {
+  fill: #121212; 
+}

@@ -1,0 +1,26 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 79px;
+  height: 26px;
+  align-items: flex-start;
+  border-radius: 5px;
+  background-color: #00a792;
+  overflow: hidden;
+}
+.finish {
+  color: #fffcf9;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 15.1899%;
+  right: 16.4557%;
+  top: 11.5385%;
+  bottom: 7.6923%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,90 @@
+.sliderCtrl.sliderCtrl {
+  left: -1.3123%;
+  right: 92.9134%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 381px;
+  height: 32px;
+  align-items: flex-start;
+}
+.sliderMask {
+  position: absolute;
+  left: 2.8871%;
+  right: 0;
+  top: 34.375%;
+  bottom: 34.375%;
+  align-items: flex-start;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.sliderBar {
+  position: absolute;
+  left: calc(50% - 360px);
+  top: 50%;
+  width: 370px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: #e5fff1;
+  transform: translate(-50%, -50%);
+}
+._20mark {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 19.7297%;
+  right: 77.5676%;
+  top: -20%;
+  bottom: 110%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+._40mark {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 39.7297%;
+  right: 57.5676%;
+  top: -20%;
+  bottom: 110%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+._60mark {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 59.7297%;
+  right: 37.5676%;
+  top: -20%;
+  bottom: 110%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+._80mark {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 79.7297%;
+  right: 17.5676%;
+  top: -20%;
+  bottom: 110%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}

@@ -1,0 +1,78 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 200px;
+  height: 40px;
+  align-items: flex-start;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.rectangle64 {
+  position: absolute;
+  left: 136px;
+  top: 2px;
+  width: 60px;
+  height: 36px;
+  border-radius: 10px;
+  background-color: #fffcf9;
+}
+.aa {
+  color: #868787;
+  font-size: 25px;
+  font-family: Roboto Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 151px;
+  top: 3px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle63 {
+  position: absolute;
+  left: 71px;
+  top: 2px;
+  width: 60px;
+  height: 36px;
+  border-radius: 10px;
+  background-color: #fffcf9;
+}
+.aa2 {
+  color: #868787;
+  font-size: 25px;
+  font-family: Baskervville, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 84px;
+  top: 4px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle62 {
+  position: absolute;
+  left: 6px;
+  top: 4px;
+  width: 60px;
+  height: 32px;
+  border-radius: 10px;
+  background-color: #00a7924d;
+}
+.aa3 {
+  color: #121212;
+  font-size: 25px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 19px;
+  top: 1px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

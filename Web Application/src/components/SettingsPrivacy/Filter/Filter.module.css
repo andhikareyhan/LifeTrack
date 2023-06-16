@@ -1,0 +1,44 @@
+.root {
+  position: absolute;
+  left: 2170px;
+  top: 630px;
+  width: 180px;
+  height: 30px;
+  align-items: flex-start;
+}
+.box {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  background-color: #d9d9d900;
+}
+.materialSymbolsArrowDropDown {
+  position: absolute;
+  left: 84.4444%;
+  right: 2.2222%;
+  top: 10%;
+  bottom: 10%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.label {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.1111%;
+  right: 70%;
+  top: 10%;
+  bottom: 10%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,405 @@
+.signUp.signUp {
+  left: 442px;
+  top: 806px;
+}
+.logIn.logIn {
+  left: 121px;
+  top: 720px;
+}
+.forgotPassword.forgotPassword {
+  left: 465px;
+  top: 640px;
+}
+.checkbox.checkbox {
+  left: 143px;
+  top: 639px;
+}
+.label {
+  color: #868787;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37.5%;
+  right: -221.875%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.logInGoogle.logInGoogle {
+  left: 121px;
+  top: 337px;
+}
+.googleLogo.googleLogo {
+  background-image:/* webpackIgnore: true */ url('/assets/googleLogo2.jpg');
+}
+.logo.logo {
+  left: 39px;
+  top: 38px;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #faf9f6;
+}
+.donTHaveAnAccountYet {
+  color: #868787;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 227px;
+  top: 806px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line6 {
+  transform-origin: bottom left;
+  color: #868787;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: relative;
+  left: 121px;
+  top: 577px;
+  width: 479px;
+  max-width: 100%;
+  height: 40px;
+  max-height: 100%;
+  border: none;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.line5 {
+  color: #868787;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 121px;
+  top: 497px;
+  width: 480px;
+  max-width: 100%;
+  height: 40px;
+  max-height: 100%;
+  border: none;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+}
+.line4 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 402px;
+  top: 439px;
+  width: 198px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #b1b1b1;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.or {
+  color: #868787;
+  font-size: 20px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 349px;
+  top: 425px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line3 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 121px;
+  top: 439px;
+  width: 199px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #b1b1b1;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.welcomeBackPleaseEnterYourDeta {
+  color: #868787;
+  font-size: 15px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 129px;
+  top: 258px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.welcomeBack {
+  color: #121212;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 129px;
+  top: 191px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1 {
+  position: absolute;
+  left: 720px;
+  top: 0;
+  width: 720px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.doctorPerformsPhysicalExaminat {
+  position: absolute;
+  left: -636px;
+  top: -41px;
+  width: 1657.4932px;
+  height: 1106px;
+  background-image:/* webpackIgnore: true */ url('/assets/doctorPerformsPhysicalExaminat.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* For phone screens */
+/* portrait mode */
+@media screen and (max-width: 414px) {
+  .root {
+    position: relative;
+    width: 414px;
+    height: 896px;
+    align-items: flex-start;
+    overflow: hidden;
+  }
+  .background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .signUp.signUp {
+    left: 442px;
+    top: 806px;
+  }
+  .logIn.logIn {
+    left: 121px;
+    top: 720px;
+  }
+  .forgotPassword.forgotPassword {
+    left: 465px;
+    top: 640px;
+  }
+  .checkbox.checkbox {
+    left: 143px;
+    top: 639px;
+  }
+  .label {
+    color: #868787;
+    font-size: 16px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 37.5%;
+    right: -221.875%;
+    top: 0;
+    bottom: 0;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .logInGoogle.logInGoogle {
+    left: 121px;
+    top: 337px;
+  }
+  .logo.logo {
+    left: 39px;
+    top: 38px;
+  }
+  .donTHaveAnAccountYet {
+    color: #868787;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 227px;
+    top: 806px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .line6 {
+    transform-origin: bottom left;
+    color: #868787;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: relative;
+    left: 121px;
+    top: 577px;
+    width: 479px;
+    max-width: 100%;
+    height: 40px;
+    max-height: 100%;
+    border: none;
+    border-bottom: solid 1px #868787;
+    margin-bottom: -1px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+  .line5 {
+    color: #868787;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 121px;
+    top: 497px;
+    width: 480px;
+    max-width: 100%;
+    height: 40px;
+    max-height: 100%;
+    border: none;
+    border-bottom: solid 1px #868787;
+    margin-bottom: -1px;
+  }
+  .line4 {
+    transform-origin: bottom left;
+    position: absolute;
+    left: 402px;
+    top: 439px;
+    width: 198px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    border-bottom: solid 1px #b1b1b1;
+    margin-bottom: -1px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+  .or {
+    color: #868787;
+    font-size: 20px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 349px;
+    top: 425px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .line3 {
+    transform-origin: bottom left;
+    position: absolute;
+    left: 121px;
+    top: 439px;
+    width: 199px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    border-bottom: solid 1px #b1b1b1;
+    margin-bottom: -1px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+  .welcomeBackPleaseEnterYourDeta {
+    color: #868787;
+    font-size: 15px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 129px;
+    top: 258px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .welcomeBack {
+    color: #121212;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 129px;
+    top: 191px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .frame1 {
+    position: absolute;
+    left: 720px;
+    top: 0;
+    width: 720px;
+    height: 1024px;
+    align-items: flex-start;
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .doctorPerformsPhysicalExaminat {
+    position: absolute;
+    left: -636px;
+    top: -41px;
+    width: 1657.4932px;
+    height: 1106px;
+  }
+}
+/* landscape mode */
+@media screen and (max-width: 896px) {
+
+}
+
+/* For tablets and ipads */
+/* portrait mode */
+@media screen and (max-width: 1024px) {
+
+}
+/* landscape mode */
+@media screen and (max-width: 1280px) {
+
+}
+
+/* For large PCs */
+@media screen and (max-width: 1920px) {
+
+}

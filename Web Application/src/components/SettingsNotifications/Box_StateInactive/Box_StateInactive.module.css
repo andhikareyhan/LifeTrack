@@ -1,0 +1,11 @@
+.root {
+  position: absolute;
+  left: 2.1368%;
+  right: 96.2607%;
+  top: 2.4155%;
+  bottom: 95.7729%;
+  outline: solid 2px #868787;
+  outline-offset: -2px;
+  border-radius: 3px;
+  overflow: hidden;
+}

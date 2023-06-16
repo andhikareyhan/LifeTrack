@@ -1,0 +1,36 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 21px;
+  width: 85px;
+  height: 24px;
+  align-items: flex-start;
+}
+.rectangle13 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.stable {
+  color: #fffcf9;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.3529%;
+  right: 23.5294%;
+  top: 8.3333%;
+  bottom: 4.1667%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

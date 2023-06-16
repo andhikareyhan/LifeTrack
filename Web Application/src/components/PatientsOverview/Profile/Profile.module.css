@@ -1,0 +1,54 @@
+.root {
+  position: absolute;
+  left: 1196px;
+  top: 542px;
+  width: 185px;
+  height: 50px;
+  align-items: flex-start;
+  background-color: #00a792;
+  overflow: hidden;
+}
+.cardiologist {
+  color: #fffcf9;
+  font-size: 10px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.7568%;
+  right: 29.7297%;
+  top: 52%;
+  bottom: 18%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.drJohnSmith {
+  color: #fffcf9;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.7568%;
+  right: 7.027%;
+  top: 10%;
+  bottom: 48%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse1 {
+  position: absolute;
+  left: 7.5676%;
+  right: 70.8108%;
+  top: 10%;
+  bottom: 10%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

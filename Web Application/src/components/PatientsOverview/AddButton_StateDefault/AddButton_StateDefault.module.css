@@ -1,0 +1,44 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 130px;
+  height: 32px;
+  align-items: flex-start;
+}
+.rectangle14 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 5px;
+  background-color: #00a792;
+}
+.addPatient {
+  color: #fffcf9;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 28.4615%;
+  right: 7.6923%;
+  top: 15.625%;
+  bottom: 18.75%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icRoundPlus {
+  position: absolute;
+  left: 3.8462%;
+  right: 77.6923%;
+  top: 12.5%;
+  bottom: 12.5%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

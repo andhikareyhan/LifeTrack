@@ -1,0 +1,39 @@
+.sliderCtrl.sliderCtrl {
+  left: -29.2683%;
+  right: 51.2195%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: 30px;
+  top: 25px;
+  width: 41px;
+  height: 32px;
+  align-items: flex-start;
+}
+.frame21 {
+  position: absolute;
+  left: 0;
+  right: 39.0244%;
+  top: 34.375%;
+  bottom: 34.375%;
+  align-items: flex-start;
+  outline: solid 1px #868787;
+  outline-offset: -1px;
+  border-radius: 10px;
+  background-color: #fffcf9;
+  overflow: hidden;
+}
+.rectangle73 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 25px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: #fffcf9;
+  transform: translate(-50%, -50%);
+}

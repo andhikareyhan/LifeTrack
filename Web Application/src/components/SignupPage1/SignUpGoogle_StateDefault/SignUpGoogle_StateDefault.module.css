@@ -1,0 +1,64 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 480px;
+  height: 46px;
+  align-items: flex-start;
+}
+.rectangle8 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 2px #868787;
+  outline-offset: -2px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.signUpWithGoogle {
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+  outline: solid 2px #868787;
+  color: #121212;
+  font-size: 18px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 480px;
+  height: 40px;
+  white-space: nowrap;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+.signUpWithGoogle:hover {
+  background-color: #ececec;
+  color: #121212;
+  outline: solid 2px #121212;
+}
+.googleLogo {
+  position: absolute;
+  left: 120px;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: 10.8696%;
+  width: 35px;
+  height: 35px;
+  background-image:/* webpackIgnore: true */ url('/assets/googleLogo.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-right: 10px;
+}

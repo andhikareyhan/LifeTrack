@@ -1,0 +1,190 @@
+.logIn.logIn {
+  left: 1160px;
+  top: 813px;
+}
+.createAcc.createAcc {
+  left: 840px;
+  top: 714px;
+}
+.signUpGoogle.signUpGoogle {
+  left: 840px;
+  top: 315px;
+}
+.googleLogo.googleLogo {
+  background-image:/* webpackIgnore: true */ url('/assets/googleLogo2.jpg');
+}
+.logo.logo {
+  left: 759px;
+  top: 38px;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 1024px;
+  background-color: #faf9f6;
+}
+.alreadyHaveAnAccount {
+  color: #868787;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 955px;
+  top: 813px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line5 {
+  color: #868787;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 841px;
+  top: 621px;
+  width: 480px;
+  max-width: calc(100% - 20px);
+  height: 40px;
+  max-height: 100%;
+  border: none;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  margin-right: 20px;
+}
+.line52 {
+  color: #868787;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 841px;
+  top: 541px;
+  width: 480px;
+  max-width: calc(100% - 20px);
+  height: 40px;
+  max-height: 100%;
+  border: none;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  margin-right: 20px;
+}
+.line53 {
+  color: #868787;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 841px;
+  top: 461px;
+  width: 480px;
+  max-width: calc(100% - 20px);
+  height: 40px;
+  max-height: 100%;
+  border: none;
+  border-bottom: solid 1px #868787;
+  margin-bottom: -1px;
+  margin-right: 20px;
+}
+.line4 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 1121px;
+  top: 410px;
+  width: 198px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #b1b1b1;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.or {
+  color: #868787;
+  font-size: 20px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1068px;
+  top: 396px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line3 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 840px;
+  top: 410px;
+  width: 199px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #b1b1b1;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.letSGetStartedWithYourAccount {
+  color: #868787;
+  font-size: 15px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 890px;
+  top: 257px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.createAnAccount {
+  color: #121212;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 890px;
+  top: 190px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 720px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.doctorThumbLarge1 {
+  position: absolute;
+  left: -539px;
+  top: 0;
+  width: 1538px;
+  height: 1024px;
+  background-image:/* webpackIgnore: true */ url('/assets/doctorThumbLarge1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

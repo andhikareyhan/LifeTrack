@@ -1,0 +1,36 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 14px;
+  width: 140px;
+  height: 36px;
+  align-items: center;
+  display: flex;
+}
+.resendEmail {
+  color: #fffcf9;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 140px;
+  height: 36px;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 5px;
+  background-color: #868787;
+}
+.resendEmailEnabled {
+  background-color: #868787;
+  cursor: not-allowed;
+}
+.resendEmailDisabled {
+  background-color: #00a792;
+  cursor: pointer;
+}

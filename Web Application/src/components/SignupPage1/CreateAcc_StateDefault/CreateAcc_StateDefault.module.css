@@ -1,0 +1,27 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 479px;
+  height: 46px;
+  align-items: flex-start;
+}
+.createAccount {
+  background-color: #00a792;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 480px;
+  cursor: pointer;
+}
+.createAccount:hover {
+  background-color: #006f5f;
+}

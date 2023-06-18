@@ -1,5 +1,8 @@
 import { memo, useState } from 'react';
 import type { FC } from 'react';
+import axios from 'axios';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 import resets from '../_resets.module.css';
 import { Checkbox_StateDefault } from './Checkbox_StateDefault/Checkbox_StateDefault';
@@ -19,6 +22,25 @@ export const LoginPage1: FC<Props> = memo(function LoginPage1(props = {}) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
+  const handleLogin = async () => {
+    try {
+      const response = await axios.post(`http://localhost:3001/login`, { email, password });      
+      if (response.data.success) {
+        window.location.href = '/patients/';
+      } else {
+        toast.error('Invalid email or password');
+      }
+    } catch (error) {
+      if ((error as any).response) {
+        toast.error('Invalid email or password');
+      } else if ((error as any).request) {
+        toast.error('Network error');
+      } else {
+        toast.error('An error occured');
+      }
+    }
+  };
+
   return (
     <div className={`${resets.storybrainResets} ${classes.root}`}>
       <div className={classes.background}></div>
@@ -27,9 +49,7 @@ export const LoginPage1: FC<Props> = memo(function LoginPage1(props = {}) {
       <LogIn_StateDefault 
         email={email} 
         password={password} 
-        onLogin={() => {
-          window.location.href = '/patients/';
-        }} 
+        onLogin={handleLogin} 
         className={classes.logIn} 
       />
       <ForgotPassword_StateDefault className={classes.forgotPassword} />
@@ -51,6 +71,7 @@ export const LoginPage1: FC<Props> = memo(function LoginPage1(props = {}) {
       <div className={classes.frame1}>
         <div className={classes.doctorPerformsPhysicalExaminat}></div>
       </div>
+      <ToastContainer autoClose={false} hideProgressBar closeOnClick={false} pauseOnFocusLoss={false}/>
     </div>
   );
 });

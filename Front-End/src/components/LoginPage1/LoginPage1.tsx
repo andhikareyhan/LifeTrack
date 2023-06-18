@@ -24,6 +24,8 @@ export const LoginPage1: FC<Props> = memo(function LoginPage1(props = {}) {
 
   const handleLogin = async () => {
     try {
+      toast.dismiss();
+
       const response = await axios.post(`http://localhost:3001/login`, { email, password });      
       if (response.data.success) {
         window.location.href = '/patients/';
@@ -71,7 +73,7 @@ export const LoginPage1: FC<Props> = memo(function LoginPage1(props = {}) {
       <div className={classes.frame1}>
         <div className={classes.doctorPerformsPhysicalExaminat}></div>
       </div>
-      <ToastContainer autoClose={false} hideProgressBar closeOnClick={false} pauseOnFocusLoss={false}/>
+      <ToastContainer autoClose={2000} hideProgressBar closeOnClick={false} pauseOnFocusLoss={false}/>
     </div>
   );
 });

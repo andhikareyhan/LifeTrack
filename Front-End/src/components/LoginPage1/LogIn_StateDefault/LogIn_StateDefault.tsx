@@ -26,11 +26,6 @@ export const LogIn_StateDefault: FC<Props> = memo(function LogIn_StateDefault(pr
 }) {
   const [isValid, setIsValid] = useState(false);
 
-  const validCredentials = [
-    { email: 'andhikareyhan@gmail.com', password: 'password1' },
-    { email: 'john.smith@gmail.com', password: 'password2' },
-  ];
-
   useEffect(() => {
     setIsValid(validateForm());
   }, [props.email, props.password]);
@@ -44,11 +39,8 @@ export const LogIn_StateDefault: FC<Props> = memo(function LogIn_StateDefault(pr
   const validateForm = () => {
     const isValidEmail = props.email !== '';
     const isValidPassword = props.password !== '';
-    const isValidCredentials = validCredentials.some(
-      (credentials) => credentials.email === props.email && credentials.password === props.password
-    );
 
-    return isValidEmail && isValidPassword && isValidCredentials;
+    return isValidEmail && isValidPassword;
   }
   
   return (

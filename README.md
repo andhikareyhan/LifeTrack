@@ -1,6 +1,6 @@
 # LifeTrack
 A Bandung Institute of Technology (ITB) EE Final Project.  
-Designed and implemented by Andhika Reyhan Soebroto, Nikolas, and David Azaria Rauf.  
+Designed and implemented by Andhika Reyhan Soebroto, Nikolas Notohardjo, and David Azaria Rauf.  
 
 WHAT IS LIFETRACK?  
 LifeTrack is a healthcare product that functions as a patient monitor capable of continuously monitoring the vital signs of patients in the ICU of a hospital. The measurable vital signs provided by this product include the electrocardiogram (ECG) signal graph, heart rate, blood pressure, blood oxygen saturation, respiratory rate, and body temperature.
